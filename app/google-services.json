@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "438438242734",
+    "firebase_url": "https://demologin-70314.firebaseio.com",
+    "project_id": "demologin-70314",
+    "storage_bucket": "demologin-70314.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438438242734:android:d82d21fb936eb217",
+        "android_client_info": {
+          "package_name": "vn.com.it.truongpham.lockscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438438242734-frve1oa581sm0ml9hee1vu1559qejpr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxexwhjFK7IRi0zPGPsEZb5xJZ-wt9K-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438438242734-frve1oa581sm0ml9hee1vu1559qejpr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
